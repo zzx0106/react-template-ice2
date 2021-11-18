@@ -1,0 +1,24 @@
+.logo {
+  position: relative;
+  display: flex;
+  align-items: center;
+  padding: 6px 16px;
+  cursor: pointer;
+  transition: padding 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+  background-color: #fff;
+  .logo-img {
+    display: inline-block;
+    height: 32px;
+    vertical-align: middle;
+  }
+  .logo-title {
+    display: inline-block;
+    height: 32px;
+    margin: 0 0 0 12px;
+    color: #1890ff;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 32px;
+    vertical-align: middle;
+  }
+}

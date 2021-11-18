@@ -1,0 +1,24 @@
+.layout-header {
+  display: flex;
+  align-items: center;
+  // background: #fff;
+  height: 48px !important;
+  box-shadow: 0 1px 4px rgb(0 21 41 / 8%);
+
+  .header-right-container {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    margin-left: auto;
+    cursor: pointer;
+
+    .header-avatar {
+      margin-left: auto;
+      background-color: #1890ff;
+    }
+  }
+}
+
+.layout-sider {
+  box-shadow: 2px 0 8px 0 rgb(29 35 41 / 5%);
+}
