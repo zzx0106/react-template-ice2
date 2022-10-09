@@ -1,9 +1,3 @@
-/*
- * @Author: linzhihai
- * @Date: 2021-08-26 19:11:49
- * @LastEditTime: 2021-09-22 18:24:38
- * @Description:
- */
 import { Link } from 'ice';
 import styles from './index.module.scss';
 import { CSSModule } from '@/utils/css-module';
