@@ -1,10 +1,3 @@
-/*
- * @Author: linzhihai
- * @Date: 2021-09-24 14:44:13
- * @LastEditTime: 2021-09-30 16:12:49
- * @Description:
- */
-
 export declare namespace ITerms {
   export interface Content {
     id: number;
