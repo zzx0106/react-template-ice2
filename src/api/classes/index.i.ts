@@ -1,10 +1,3 @@
-/*
- * @Author: linzhihai
- * @Date: 2021-09-26 11:29:03
- * @LastEditTime: 2021-11-08 16:29:20
- * @Description:
- */
-
 export declare namespace IClassProps {
   export interface Content {
     push_sub_category: string;
