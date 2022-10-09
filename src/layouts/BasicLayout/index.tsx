@@ -1,9 +1,3 @@
-/*
- * @Author: linzhihai
- * @Date: 2021-08-26 19:11:49
- * @LastEditTime: 2021-11-04 11:06:16
- * @Description:
- */
 import { createContext } from 'react';
 import PageNav from './components/PageNav';
 
