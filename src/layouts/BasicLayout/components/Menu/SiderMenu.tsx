@@ -1,9 +1,3 @@
-/*
- * @Author: linzhihai
- * @Date: 2021-08-27 14:56:19
- * @LastEditTime: 2021-10-22 14:24:26
- * @Description:
- */
 import { Menu } from 'antd';
 import { getSearchParams, useHistory, useLocation } from 'ice';
 import { asideMenus, myTeamMenus, operationMenus, dataAnalysisMenus, IRouteContent } from '../menuConfig';
