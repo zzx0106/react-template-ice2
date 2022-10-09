@@ -1,9 +1,3 @@
-/*
- * @Author: linzhihai
- * @Date: 2021-08-26 19:11:50
- * @LastEditTime: 2021-10-30 00:40:39
- * @Description:
- */
 import { message } from 'antd';
 import Axios, { ResponseType } from 'axios';
 import { addPending, removePending, clearPending } from './cancelRequest';
@@ -13,11 +7,9 @@ let orgin = '';
 console.log('env', process.env.NODE_ENV);
 const baseEnv = process.env.NODE_ENV;
 if (baseEnv === 'production') {
-  // https://lh-efficiency-platform.weike.fm
-  orgin = 'https://lh-efficiency-platform.weike.fm'; // 生产环境地址
+  orgin = ''; // 生产环境地址
 } else if (baseEnv === 'development') {
-  // https://lh-efficiency-platform.dev1.weike.fm
-  orgin = 'https://lh-efficiency-platform.dev1.weike.fm'; // 测试环境地址
+  orgin = ''; // 测试环境地址
 } else if (baseEnv === 'test') {
   orgin = ''; // 测试环境地址
 }
