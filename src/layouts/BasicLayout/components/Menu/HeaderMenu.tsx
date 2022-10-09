@@ -1,9 +1,3 @@
-/*
- * @Author: linzhihai
- * @Date: 2021-09-08 11:20:23
- * @LastEditTime: 2021-10-18 14:44:33
- * @Description:
- */
 import { useState, useEffect } from 'react';
 import { Menu } from 'antd';
 import { getSearchParams, useHistory, useLocation } from 'ice';
