@@ -1,9 +1,3 @@
-/*
- * @Author: linzhihai
- * @Date: 2021-08-30 18:14:30
- * @LastEditTime: 2021-09-08 10:55:11
- * @Description:
- */
 export declare namespace ISystemInfo {
   export interface Data {
     appid: string;
