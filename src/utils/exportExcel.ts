@@ -1,10 +1,3 @@
-/*
- * @Author: linzhihai
- * @Date: 2021-09-26 17:42:43
- * @LastEditTime: 2021-10-08 11:04:13
- * @Description:
- */
-
 import { api_classes_export_classess } from '@/api/classes';
 import { api_term_export_terms } from '@/api/term';
 import { message } from 'antd';
