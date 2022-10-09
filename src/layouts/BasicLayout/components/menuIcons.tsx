@@ -1,10 +1,4 @@
 /* eslint-disable react/jsx-key */
-/*
- * @Author: linzhihai
- * @Date: 2021-09-07 15:20:17
- * @LastEditTime: 2021-09-29 15:40:41
- * @Description: 菜单图标
- */
 import {
   FileOutlined,
   SolutionOutlined,
